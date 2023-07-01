@@ -1,4 +1,3 @@
-
 --Basic SELECT statements
 SELECT * FROM employees;
 SELECT * FROM shops;
