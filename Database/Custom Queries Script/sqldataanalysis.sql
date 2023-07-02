@@ -25,7 +25,7 @@ FROM employees
 ORDER BY salary DESC
 LIMIT 10;
 
---QS.4 Get total number of male and female employees working at Common Grounds
+--QS.4 Get total number of male and female employees working at Common Grounds coffeeshop
 SELECT gender, COUNT(gender) AS no_of_employees
 FROM employees
 WHERE coffeeshop_id = 1
