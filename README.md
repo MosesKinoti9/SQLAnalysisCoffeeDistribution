@@ -1,1 +1,1 @@
-This is a project where 9 real test case questions have been tabled to showcase basic and advanced SQL data manipulation capabilities with a coffee distributors dataset of employees of coffeeshops operating in the United States and the United Kingdom.
+This is a project where 10 real test case questions have been tabled to showcase basic and advanced SQL data manipulation capabilities with a coffee distributors dataset of employees of coffeeshops operating in the United States and the United Kingdom.
