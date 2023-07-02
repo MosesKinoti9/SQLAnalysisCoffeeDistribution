@@ -11,7 +11,6 @@ SELECT employee_id, last_name, first_name
 FROM employees
 ORDER BY last_name;
 
-SELECT gender, COUNT(gender) FROM employees GROUP BY gender;
 
 --QS.2 Get all male employees who work at Ancient Bean and earn more than 45k
 SELECT * 
